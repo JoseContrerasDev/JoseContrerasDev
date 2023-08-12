@@ -90,34 +90,4 @@
 <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat"></a>
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 </p>
-
-<h2>📊 Github Stats and Activity</h2>
-
-<h3>🔥 Streak Stats</h3>
-
-<p>
-<a href="#">
-<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=vibrantfix&theme=dracula&hide_border=true&background=000000EE"/>
-</a>
-</p>
-
-<h3>💻 GitHub Profile Stats</h3>
-
-<p>
-<a href="#"><img alt="Yogesh's Github Stats" src="https://github-readme-stats-vibrantfix.vercel.app/api?username=vibrantfix&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=vibrantfix&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-<!--START_SECTION:waka-->
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
-
-<br>
-
-<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
-
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>
