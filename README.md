@@ -6,8 +6,9 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello there 👋 Soy Jose. </h1>
-      <h1> Gracias por visitar mi github </h1></summary>
+    </summary>
   </ul>
+    <h1> Gracias por visitar mi github </h1>
 </div>
 
 
