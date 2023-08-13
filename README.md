@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-_Soy Tecnico electronico, actualmente estoy cursando el ultimo cuatrimestre de la Tecnicatura en Desarrollo de Software
+_Soy Técnico electrónico, actualmente estoy cursando el ultimo cuatrimestre de la Tecnicatura en Desarrollo de Software
 
 <!--Intro end-->
 
