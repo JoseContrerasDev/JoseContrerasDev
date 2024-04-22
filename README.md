@@ -13,10 +13,9 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 
 <!--Intro start-->
 _Soy Técnico en electrónica, estoy cursando el ultimo cuatrimestre de la Tecnicatura en Desarrollo de Software y me encuentro en formacion continua en el sector Testing QA
