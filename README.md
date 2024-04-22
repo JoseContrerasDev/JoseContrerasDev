@@ -18,7 +18,8 @@
 </div>
 
 <!--Intro start-->
-_Soy Técnico en electrónica, estoy cursando el ultimo cuatrimestre de la Tecnicatura en Desarrollo de Software y me encuentro en formacion continua en el sector Testing QA
+Gracias por tu visita 👩🏾‍💻
+Me llamo Jose, Soy Técnico en electrónica, estoy cursando el ultimo cuatrimestre de la Tecnicatura en Desarrollo de Software y formandome en Testing QA
 <!--Intro end-->
 
 
