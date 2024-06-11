@@ -22,24 +22,6 @@ Gracias por tu visita 👩🏾‍💻
 Me llamo Jose.. Soy Técnico en electrónica, estoy cursando el ultimo cuatrimestre de la Tecnicatura en Desarrollo de Software y formandome en Testing QA
 <!--Intro end-->
 
-
-
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,discord,html,idea,java,js,kotlin,linux,materialui,mongodb,mysql,postman,py,vscode&perline=14" />
-  </a>
-</p>
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
