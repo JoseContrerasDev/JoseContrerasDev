@@ -23,7 +23,7 @@ Me llamo Jose.. Soy Técnico en electrónica, estudiante avanzado en Tecnicatura
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Si querés mas info contactame por Linkedin🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contactame por Linkedin🤝</h2></summary>
   </ul>
 </div>
 
