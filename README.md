@@ -12,10 +12,7 @@
 
 
 <!--- snake -->
-<div align="center">
-  <img  src="resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 <!--Intro start-->
 Gracias por tu visita 👩🏾‍💻
