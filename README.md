@@ -16,7 +16,7 @@
 
 <!--Intro start-->
 Gracias por tu visita 👩🏾‍💻
-Me llamo Jose.. Soy Técnico en electrónica, estudiante avanzado en Tecnicatura en Desarrollo de Software en IFTS24 & formandome en Ing. de Software
+Me llamo Jose.. Soy Técnico en electrónica con exp en IoT & normas IEC, ISO e IRAM. Soy estudiante avanzado de la Tecnicatura en Desarrollo de Software en el IFTS Nº24 y en formacion continua de Ing. de Software 💪
 <!--Intro end-->
 
 <!-- Connect with me -->
