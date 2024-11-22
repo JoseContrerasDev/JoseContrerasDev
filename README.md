@@ -15,8 +15,13 @@
 
 
 <!--Intro start-->
-Gracias por tu visita 👩🏾‍💻
-Me llamo Jose.. Soy Técnico en electrónica con exp en IoT & normas IEC, ISO e IRAM. Soy estudiante avanzado de la Tecnicatura en Desarrollo de Software en el IFTS Nº24 y en formacion continua de Ing. de Software 💪
+👋 ¡Hola! Gracias por tu visita. Soy José, técnico en electrónica con experiencia en IoT y especializado en la implementación y manejo de normas internacionales como IEC, ISO e IRAM. Mi formación y trayectoria están centradas en garantizar la calidad y la estandarización en proyectos tecnológicos.
+
+📚 Actualmente, estoy cursando la Tecnicatura en Desarrollo de Software en el IFTS Nº24, en los tramos finales, y complementando mi formación con estudios continuos en Ingeniería de Software. Mi enfoque está en aplicar soluciones tecnológicas innovadoras con un marco sólido de calidad y eficiencia.
+
+🚀 Trabajo con grupos multidisciplinarios para diseñar y desarrollar MVP (Minimum Viable Products), integrando diversas perspectivas y habilidades para convertir ideas en soluciones viables y funcionales.
+
+🌌 Además de mi experiencia técnica, tengo una profunda pasión por la astronomía y la ingeniería aeroespacial, campos que inspiran mi visión y me motivan a explorar nuevas fronteras tecnológicas.
 <!--Intro end-->
 
 <!-- Connect with me -->
