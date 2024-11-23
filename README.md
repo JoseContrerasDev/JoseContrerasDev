@@ -22,6 +22,10 @@
 🚀 Trabajo con grupos multidisciplinarios para diseñar y desarrollar MVP (Minimum Viable Products), integrando diversas perspectivas y habilidades para convertir ideas en soluciones viables y funcionales.
 
 🌌 Además de mi experiencia técnica, tengo una profunda pasión por la astronomía y la ingeniería aeroespacial, campos que inspiran mi visión y me motivan a explorar nuevas fronteras tecnológicas.
+
+⚽ Cuando no estoy enfocado en proyectos tecnológicos, me gusta jugar al fútbol como arquero. Esta posición me ha enseñado a mantener la calma bajo presión, tomar decisiones rápidas y ser el último respaldo en momentos clave
+
+💼 Si quieres conectar no dudes en visitarme en LinkedIn🚀
 <!--Intro end-->
 
 <!-- Connect with me -->
