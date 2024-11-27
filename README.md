@@ -15,17 +15,17 @@
 
 
 <!--Intro start-->
-👋 ¡Hola! Gracias por tu visita. Soy José, técnico en electrónica con experiencia en IoT y especializado en la implementación y manejo de normas internacionales como IEC, ISO e IRAM. Mi formación y trayectoria están centradas en garantizar la calidad y la estandarización en proyectos tecnológicos.
+¡Hola! Gracias por tu visita 
 
-📚 Actualmente, estoy cursando la Tecnicatura en Desarrollo de Software en el IFTS Nº24, en los tramos finales, y complementando mi formación con estudios continuos en Ingeniería de Software. Mi enfoque está en aplicar soluciones tecnológicas innovadoras con un marco sólido de calidad y eficiencia.
+Soy José, técnico en electrónica con experiencia en IoT y especializado en la implementación y manejo de normas internacionales como IEC, ISO e IRAM. Mi formación y trayectoria están centradas en garantizar la calidad y la estandarización en proyectos tecnológicos.
 
-🚀 Trabajo con grupos multidisciplinarios para diseñar y desarrollar MVP (Minimum Viable Products), integrando diversas perspectivas y habilidades para convertir ideas en soluciones viables y funcionales.
+📚 Actualmente, estoy cursando la Tecnicatura en Desarrollo de Software en el IFTS Nº24, en los tramos finales, y complementando mi formación con estudios continuos en Ingeniería de Software. 
 
-🌌 Además de mi experiencia técnica, tengo una profunda pasión por la astronomía y la ingeniería aeroespacial, campos que inspiran mi visión
+🚀 En No Country trabajo con grupos multidisciplinarios para diseñar, gestionar y desarrollar MVP (Minimum Viable Products), integrando diversas perspectivas y habilidades para convertir ideas en soluciones viables y funcionales utilizando metodologías Agiles
 
-⚽ Cuando no estoy enfocado en proyectos tecnológicos, me gusta jugar al fútbol como arquero. Esta posición me ha enseñado a mantener la calma bajo presión, tomar decisiones rápidas y ser el último respaldo en momentos clave
+🌌🚀 Además de mi experiencia técnica, tengo una admiración por la astronomía y la ingeniería aeroespacial, también me gusta jugar al fútbol como arquero. Esta posición me enseña a mantener la calma bajo presión, tomar decisiones rápidas y ser el último respaldo del equipo en momentos clave
 
-💼 Si quieres conectar no dudes en visitarme en LinkedIn🚀
+💼 Si queres conocer como implementar normativas dentro del ciclo de desarrollo de vida o como testear productos IoT podes contactarme por Linkedin 🚀
 <!--Intro end-->
 
 <!-- Connect with me -->
